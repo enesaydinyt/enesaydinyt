@@ -1,19 +1,65 @@
-<h1 align="center">Merhaba 👋, Ben Enes</h1>
+<body>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enesaydinyt&label=Profile%20views&color=0e75b6&style=flat" alt="enesaydinyt" /> </p>
+<header>
+    <h1>Enes'in Projeleri</h1>
+    <p>Yazılım geliştirme ve programlama konularına tutkulu bir geliştirici.</p>
+</header>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enesaydinyt" alt="enesaydinyt" /></a> </p>
+<section class="technologies">
+    <h2>🛠️ Teknolojiler</h2>
+    <ul>
+        <li><strong>Xamarin</strong></li>
+        <li><strong>Firebase</strong></li>
+        <li><strong>PHP</strong></li>
+        <li><strong>SQL</strong></li>
+        <li><strong>HTML/CSS</strong></li>
+        <li><strong>Visual Studio</strong></li>
+    </ul>
+</section>
 
-- 📫 Bana nasıl ulaşabilirsiniz? **enesaydinyt@gmail.com**
+<section class="projects">
+    <h2>📱 Projeler</h2>
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-<a href="https://instagram.com/enesvoox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesvoox" height="30" width="40" /></a>
-</p>
+    <div class="project">
+        <h3>Sohbet Odası Uygulaması</h3>
+        <p><strong>Açıklama:</strong> İki Android cihazın Bluetooth kullanmadan sohbet edebileceği bir uygulama.</p>
+        <p><strong>Kullanılan Teknolojiler:</strong> Xamarin, Firebase</p>
+        <p><strong>Özellikler:</strong></p>
+        <ul>
+            <li>Kullanıcı kayıt ve giriş işlemleri</li>
+            <li>Gerçek zamanlı sohbet</li>
+            <li>Sohbet odası oluşturma ve katılma</li>
+        </ul>
+    </div>
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" genişlik="40" yükseklik="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="önyükleme" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" genişlik="40" yükseklik="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" genişlik="40" yükseklik="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" genişlik="40" yükseklik="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" genişlik="40" yükseklik="40"/> </a> <a href="https://developer.mozilla.org/tr-TR/dokümanlar/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" genişlik="40" yükseklik="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" genişlik="40" yükseklik="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/tr-tr/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" genişlik="40" yükseklik="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" genişlik="40" yükseklik="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" genişlik="40" yükseklik="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" genişlik="40" yükseklik="40"/></a><a zhref="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" genişlik="40" yükseklik="40"/></a></p>
+    <div class="project">
+        <h3>Arıza Takip Sistemi</h3>
+        <p><strong>Açıklama:</strong> Arıza kayıtlarının tutulduğu, güncellenebilen ve yönetilebilen bir sistem.</p>
+        <p><strong>Kullanılan Teknolojiler:</strong> PHP, SQL</p>
+        <p><strong>Özellikler:</strong></p>
+        <ul>
+            <li>Arıza kaydı oluşturma</li>
+            <li>Arıza güncelleme ve durumu izleme</li>
+            <li>Filtreleme ve arama özellikleri</li>
+        </ul>
+    </div>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=enesaydinyt&show_icons=true&locale=tr" alt="enesaydinyt"/></p>
+    <div class="project">
+        <h3>Sigorta Şirketi Tasarımı</h3>
+        <p><strong>Açıklama:</strong> Sigorta poliçelerinin kullanıcıya tanıtıldığı, seçim yapabilecekleri bir tasarım.</p>
+        <p><strong>Kullanılan Teknolojiler:</strong> HTML, CSS</p>
+        <p><strong>Özellikler:</strong></p>
+        <ul>
+            <li>Poliçe isimlerini kutucuklar içinde gösterme</li>
+            <li>Poliçe seçim açıklamaları</li>
+        </ul>
+    </div>
+</section>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enesaydinyt&" alt="enesaydinyt"/></p>
+<section class="contact-info">
+    <h2>📬 İletişim</h2>
+    <p><strong>E-posta:</strong> enes@example.com</p>
+    <p><strong>GitHub Profilim:</strong> <a href="https://github.com/enes" target="_blank">GitHub</a></p>
+</section>
+
+</body>
